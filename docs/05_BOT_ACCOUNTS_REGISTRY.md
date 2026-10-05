@@ -21,7 +21,7 @@
 | **001<br>木 🌲** | 柚木 (You-Mu) | **資訊部門主管**<br>(IT Department Lead) | 統籌系統藍圖、規劃與任務指派<br>(直屬技術長官：張家豪) | `@wood_001_bot` | `8746962767:AAGX6lQaRFD4mVfjnYVMsOQMcIiTIM9zxkc` | `troydb001@gmail.com` | 🟢 守護運行中 |
 | **002<br>水 💧** | 柚水 (You-Shui) | **資訊部門程式設計師**<br>(Senior Programmer) | 負責全系統核心模組開發實作<br>(直屬主管：001 柚木) | `@water_002_bot` | `8837947832:AAGAMztcy1iSbXeOt3ewDz9DEryFa-r_vQ0` | `troydb002@gmail.com` | 🟢 守護運行中 |
 | **003<br>火 🔥** | 柚火 (You-Huo) | **測試維運 AI 員工**<br>(DevOps & QA Specialist) | CI/CD、IIS 巡檢與常駐守護<br>(直屬技術長官：張家豪) | `@fire_003_bot` | `8856411250:AAGSgNOF-2FwkCRZ3XFKHYKFFxstLhobP-s` | `troydb003@gmail.com` | 🟢 標準配置完備 |
-| **004<br>土 ⛰️** | 柚土 (You-Tu) | **歐印雲系統測試官**<br>(System QA Lead) | **直隸數位總經理 柚金**<br>負責獨立系統測試與呈遞報告 | `@earth_004_bot` | `8759576479:AAHV_mWoJMJtoNNtQEfZiBY-zZBHtVwFRe8` | `troydb004@gmail.com` | 🟢 獨立品管就位 |
+| **004<br>土 ⛰️** | 柚土 (You-Tu) | **資訊部門系統測試官**<br>(QA Engineer) | **直屬 001 柚木主管**<br>負責系統測試並回報資訊部統籌檢討 | `@earth_004_bot` | `8759576479:AAHV_mWoJMJtoNNtQEfZiBY-zZBHtVwFRe8` | `troydb004@gmail.com` | 🟢 歸編資訊部 |
 
 ---
 
